@@ -1,0 +1,4 @@
+# This script create unauthentication events by trying 2 failed login attempts
+echo "test script"
+logout
+
